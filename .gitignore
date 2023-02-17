@@ -1,0 +1,10 @@
+.DS_Store
+
+Migrations
+Properties
+
+bin
+obj
+
+.idea/
+appsettings.json
